@@ -1,0 +1,15 @@
+.App-header {
+  color: gray;
+  display: block;
+  text-align: center;
+  font-size: 45px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  margin: 20px 0;
+  padding-left: 50px;
+}
+.leaf-logo {
+  max-width: 70px;
+  max-height: 70px;
+  margin-right: 20px;
+}
