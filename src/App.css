@@ -8,8 +8,15 @@
   margin: 20px 0;
   padding-left: 50px;
 }
-.leaf-logo {
-  max-width: 70px;
-  max-height: 70px;
-  margin-right: 20px;
+h2 {
+  font-size: 20px;
+}
+span {
+  color: #32bc9c;
+}
+footer {
+  text-align: center;
+  margin-top: 50px;
+  color: #32bc9c;
+  font-weight: 400;
 }
