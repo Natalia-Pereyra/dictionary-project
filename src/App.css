@@ -1,3 +1,7 @@
+body {
+  background-color: #f5efe9;
+}
+
 .App-header {
   color: gray;
   display: block;
@@ -8,15 +12,16 @@
   margin: 20px 0;
   padding-left: 50px;
 }
-h2 {
-  font-size: 20px;
-}
-span {
-  color: #32bc9c;
-}
+
 footer {
   text-align: center;
   margin-top: 50px;
   color: #32bc9c;
   font-weight: 400;
+}
+a {
+  color: gray;
+}
+section {
+  background-color: blue;
 }
