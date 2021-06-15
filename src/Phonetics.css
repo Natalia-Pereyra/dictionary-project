@@ -1,0 +1,18 @@
+.phonetic {
+  color: #999494;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.phonetic a {
+  border: 1px solid #ddd;
+  padding: 8px 13px;
+  border-radius: 17px;
+  text-decoration: none;
+  font-family: Arial, Helvetica, sans-serif;
+  transition: all 150ms ease-in-out;
+  margin-right: 10px;
+}
+.phonetic a:hover {
+  background: #8fba9a;
+  color: white;
+}

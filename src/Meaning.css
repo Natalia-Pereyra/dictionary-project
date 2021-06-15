@@ -1,0 +1,12 @@
+.meaning .definition {
+  color: #838080;
+}
+.meaning .example {
+  color: #999494;
+  opacity: 0.7;
+  font-size: 17px;
+}
+.meaning h3 {
+  font-size: 25px;
+  color: #999494;
+}

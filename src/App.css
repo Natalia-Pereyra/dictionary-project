@@ -1,9 +1,15 @@
+.App {
+  background: white;
+  border-radius: 6px;
+  max-width: 800px;
+  display: block;
+  margin: 0 auto;
+}
 body {
-  background-color: #f5efe9;
+  background-color: white;
 }
 
 .App-header {
-  color: gray;
   display: block;
   text-align: center;
   font-size: 45px;
@@ -16,12 +22,9 @@ body {
 footer {
   text-align: center;
   margin-top: 50px;
-  color: #32bc9c;
+  color: #999494;
   font-weight: 400;
 }
 a {
   color: gray;
-}
-section {
-  background-color: blue;
 }

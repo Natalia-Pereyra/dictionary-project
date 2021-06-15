@@ -1,6 +1,7 @@
 import React from "react";
 import './App.css';
 import Dictionary from "./Dictionary";
+import Theconsciousdictionary from "./Theconsciousdictionary.png";
 
 
 function App() {
@@ -8,12 +9,13 @@ function App() {
     <div className="App">
       <div className="container">
       <header className="App-header">
-      The <span>Green</span> Dictionary
-      <h2>
+        <img src={Theconsciousdictionary} />
+      
+      <h6>
         For every 100 words searched a tree is being planted
-      </h2>
+      </h6>
       </header>
-      <Dictionary />
+      <Dictionary defaultKeyword="welcome" />
       <footer><small>coded by me</small></footer>
       </div>
     </div>

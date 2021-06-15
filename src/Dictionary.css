@@ -1,20 +1,42 @@
 strong {
   font-weight: 500;
-  color: #3a9c85;
+  color: rgba(29, 119, 52, 0.5);
+}
+h1 {
+  color: #838080;
+  font-size: 18px;
 }
 h2 {
   font-size: 30px;
-  color: gray;
+  color: #999494;
   margin-top: 20px;
 }
-span {
-  color: #3a9c85;
-}
+
 h3 {
   font-size: 20px;
   color: gray;
 }
+h6 {
+  margin-bottom: 30px;
+  color: #999494;
+}
 section {
-  background: blue;
-  margin-top: 100px;
+  background: white;
+  padding: 10px;
+  border-radius: 8px;
+  box-shadow: 0px 10px 10px rgba(0, 0, 0, 10%);
+  margin: 20px 0;
+}
+img {
+  max-width: 600px;
+  margin-left: -65px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+input {
+  width: 100%;
+  padding: 4px 4px;
+  border: 2px solid #d3d3d3;
+  border-radius: 6px;
+  color: #838080;
 }
