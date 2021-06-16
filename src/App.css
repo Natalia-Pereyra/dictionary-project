@@ -22,9 +22,15 @@ body {
 footer {
   text-align: center;
   margin-top: 50px;
+  margin-bottom: 30px;
   color: #999494;
   font-weight: 400;
 }
 a {
-  color: gray;
+  color: #8fba9a;
+  text-decoration: none;
+}
+a:hover {
+  color: #8fba9a;
+  font-weight: bold;
 }

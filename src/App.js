@@ -16,7 +16,13 @@ function App() {
       </h6>
       </header>
       <Dictionary defaultKeyword="cedar" />
-      <footer><small>coded by me</small></footer>
+      <footer><small>Coded by Natalia Pereyra, open source on </small>
+      <a href="https://github.com/Natalia-Pereyra/dictionary-project" target="_blank" rel="noreferrer">
+       Github </a>
+      and hosted on 
+      <a href="https://vigilant-colden-04d5e2.netlify.app/" target="_blank" rel="noreferrer"> Netlify</a> 
+        
+        </footer>
       </div>
     </div>
   );
