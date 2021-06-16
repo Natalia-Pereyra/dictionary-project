@@ -15,7 +15,7 @@ function App() {
         For every 100 words searched a tree is being planted
       </h6>
       </header>
-      <Dictionary defaultKeyword="welcome" />
+      <Dictionary defaultKeyword="cedar" />
       <footer><small>coded by me</small></footer>
       </div>
     </div>
