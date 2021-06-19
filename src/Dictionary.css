@@ -41,3 +41,6 @@ input {
   border-radius: 6px;
   color: #838080;
 }
+input:focus {
+  outline: none;
+}
