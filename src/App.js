@@ -1,7 +1,7 @@
 import React from "react";
 import './App.css';
 import Dictionary from "./Dictionary";
-import Theconsciousdictionary from "./Theconsciousdictionary.png";
+import TLove from "./TLove.png";
 
 
 function App() {
@@ -9,13 +9,13 @@ function App() {
     <div className="App">
       <div className="container">
       <header className="App-header">
-        <img src={Theconsciousdictionary} alt="trees" />
+        <img src={TLove} alt="trees" />
       
       <h6>
-        For every 100 words searched a tree is being planted
+        For every 1000 words searched a tree is being planted!
       </h6>
       </header>
-      <Dictionary defaultKeyword="cedar" />
+      <Dictionary defaultKeyword="" />
       <footer><small>Coded by Natalia Pereyra, open source on </small>
       <a href="https://github.com/Natalia-Pereyra/dictionary-project" target="_blank" rel="noreferrer">
        Github </a>

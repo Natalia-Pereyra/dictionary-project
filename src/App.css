@@ -27,10 +27,11 @@ footer {
   font-weight: 400;
 }
 a {
-  color: #8fba9a;
+  color: #ed924f;
   text-decoration: none;
+  font-weight: 400;
 }
 a:hover {
-  color: #8fba9a;
-  font-weight: bold;
+  color: #ed924f;
+  font-weight: 500;
 }
