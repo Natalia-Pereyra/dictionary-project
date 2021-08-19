@@ -1,7 +1,7 @@
 import React from "react";
 import './App.css';
 import Dictionary from "./Dictionary";
-import TLove from "./TLove.png";
+import hero from "./Images/hero.png";
 
 
 function App() {
@@ -9,10 +9,10 @@ function App() {
     <div className="App">
       <div className="container">
       <header className="App-header">
-        <img src={TLove} alt="trees" />
+        <img src={hero} alt="trees" />
       
       <h6>
-        For every 1000 words searched a tree is being planted!
+        For every 1000 words searched a tree is being planted
       </h6>
       </header>
       <Dictionary defaultKeyword="" />
