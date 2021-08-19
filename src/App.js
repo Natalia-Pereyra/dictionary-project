@@ -1,18 +1,17 @@
 import React from "react";
-import './App.css';
 import Dictionary from "./Dictionary";
-import hero from "./Images/hero.png";
-
+import hero from "./hero.png";
+import './App.css';
 
 function App() {
   return (
     <div className="App">
       <div className="container">
       <header className="App-header">
-        <img src={hero} alt="trees" />
+        <img src={hero} className="Hero-img" alt="trees" />
       
       <h6>
-        For every 1000 words searched a tree is being planted
+        🔍 Where all questions are answered 🔍
       </h6>
       </header>
       <Dictionary defaultKeyword="" />

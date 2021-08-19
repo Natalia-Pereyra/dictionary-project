@@ -7,16 +7,16 @@
   border: 1px solid #ddd;
   padding: 8px 13px;
   border-radius: 17px;
-  border-color: #ed924f;
+  border-color: #ab8eb6;
   text-decoration: none;
   font-family: Arial, Helvetica, sans-serif;
   transition: all 150ms ease-in-out;
   margin-right: 10px;
-  color: #ed924f;
+  color: #ab8eb6;
   font-weight: 500;
 }
 .phonetic a:hover {
-  background: #ed924f;
+  background: #ab8eb6;
   color: white;
   font-weight: 500;
 }
