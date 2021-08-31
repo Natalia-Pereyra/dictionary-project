@@ -8,7 +8,7 @@ function App() {
     <div className="App">
       <div className="container">
       <header className="App-header">
-        <h1>My Dictionary App</h1>
+        <h1 className="title">My Dictionary App</h1>
       
       </header>
       <Dictionary defaultKeyword="" />
