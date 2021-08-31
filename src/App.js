@@ -1,6 +1,6 @@
 import React from "react";
 import Dictionary from "./Dictionary";
-import hero from "./hero.png";
+
 import './App.css';
 
 function App() {
