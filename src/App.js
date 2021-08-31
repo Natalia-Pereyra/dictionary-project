@@ -8,11 +8,8 @@ function App() {
     <div className="App">
       <div className="container">
       <header className="App-header">
-        <img src={hero} className="Hero-img" alt="trees" />
+        <h1>My Dictionary App</h1>
       
-      <h6>
-        🔍 Where all questions are answered 🔍
-      </h6>
       </header>
       <Dictionary defaultKeyword="" />
       <footer><small>Coded by Natalia Pereyra, open source on </small>
