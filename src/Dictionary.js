@@ -51,7 +51,7 @@ export default function Dictionary(props) {
    
    if (loaded){
       return (
-      <div className="Dictionary">
+      <div className="Dictionary container-fluid">
         <section className="form">
           <h1>What would you like to look up today?</h1>
           <form onSubmit={handleSubmit}>

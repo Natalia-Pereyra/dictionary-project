@@ -2,6 +2,7 @@
   --heading-color: #fed0b9;
   --softer-color: #f9eae3;
   --dark-gray: #898585;
+  --font-heading: var(--font-heading);
 }
 .App {
   max-width: 800px;
@@ -47,4 +48,5 @@ header h1 {
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
   margin: 20px auto;
   padding: 30px;
+  font-family: "Montserrat Alternates", sans-serif;
 }
