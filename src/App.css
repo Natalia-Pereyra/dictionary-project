@@ -50,3 +50,6 @@ header h1 {
   padding: 30px;
   font-family: "Montserrat Alternates", sans-serif;
 }
+.results {
+  padding: 0px;
+}
